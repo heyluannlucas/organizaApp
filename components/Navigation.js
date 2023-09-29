@@ -13,7 +13,7 @@ function Nav() {
       </div>
       <small>Eai, Luann</small>
     </div>
-    <nav className="flex items-center gap-2">
+    <nav className="flex items-center gap-5">
       <div>
         <ImStatsBars className="text-2xl"/>
       </div>
